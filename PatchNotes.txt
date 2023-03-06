@@ -1,0 +1,6 @@
+Didn't start patch notes until 1.2.0
+1.2.0:
+Added a requirements text file so that's not a pain. 
+Added support for medium difficutly. Basically just adding colors. Change it by changing the "difficulty" variable
+Added support for easy difficulty. Same as medium.
+Turned back on the difficulty selector at the start of the program. 
